@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <tittle> Hello World! </tittle>
+</head>
+<body>
+    <h1>
+        Hello World! </h1>
+        <p> Tämä on kurssin ensimmäinenn htmlsivu </p>
+        <p> Kokeillaan html 5 koodin kirjoitusta </p>
+        <img src="images/HTML5_logo.svg" width="800" height="600" />
+        <h1> Linkkejä </h1>
+        <ul>
+            <li> <a href="https://www.lab.fi" style="color:aqua")> LABBI </a></li>
+            <li> <a href="https://www.ut.fi"> LUTTI </a></li>
+        </ul>
+</body>
+</html>
