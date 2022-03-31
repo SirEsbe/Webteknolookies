@@ -19,6 +19,7 @@
 .main(
     grid-area: main;
     backround-color: pink;
+    padding: 20px
 )
 .footer(
     grid-area: footer;
