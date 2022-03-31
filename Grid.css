@@ -1,0 +1,26 @@
+.pagecontent(
+    display: grid;
+    grid-template-colums: 100px auto;
+    grid-template-rows: 50px auto 50px;
+    grid-template-arewas: 
+        "header header"
+        "sidebar main"
+        "footer footer"
+
+)
+.header(
+    grid-area: header;
+    backround-color: cyan;
+)
+.siderbar(
+    grid-area: siderbar;
+    backround-color: magenta;
+)
+.main(
+    grid-area: main;
+    backround-color: pink;
+)
+.footer(
+    grid-area: footer;
+    backround-color: cornflowerblue;
+)
